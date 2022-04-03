@@ -54,7 +54,7 @@ export default function UserList() {
                 <Td>
                   <Box>
                     <Text fontWeight="bold">Caique Lins</Text>
-                    <Text font-size="sm" color="gray.300">caique.c.lins@gmail.com</Text>
+                    <Text fontSize="sm" color="gray.300">caique.c.lins@gmail.com</Text>
                   </Box>
                 </Td>
                 {isWideVersion && <Td>21 de Março, 2022</Td>}
